@@ -10,6 +10,8 @@
 
 **日本語版ドキュメント作者より:**
 
+このドキュメントは、2018/09/28時点で最新の[tootsuite/documentation(4592428)](https://github.com/kyori19/documentation/blob/45924280ca012482ec2138a549b8061d16afb2ef/Running-Mastodon/Production-guide.md)をベースに作成しています。
+
 この翻訳には個人的な感覚に基づく意訳が含まれます。また、最新のドキュメントとは内容が異なる恐れがありますので、[本家ドキュメント](https://github.com/tootsuite/documentation/blob/master/Running-Mastodon/Production-guide.md)も一緒に確認してください。
 
 翻訳などに誤りがあると思われる場合は、プルリクエストを送るか、 [@ars42525@odakyu.app](https://odakyu.app/@ars42525)にリプライを送ってください。
