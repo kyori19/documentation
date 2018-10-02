@@ -41,7 +41,7 @@
 
 > ### (任意)知っておくと便利なもの
 >
-> 作業中に `tmux` を使うとに便利です。
+> 作業中に `tmux` を使うと更に便利です。
 >
 >
 > `tmux`は、サーバーから切断されてしまった時だけでなく、複数のターミナル画面を開いてrootユーザーとmastodonユーザーを切り替えるためなどにも使用できます。
@@ -97,7 +97,7 @@ apt update
 
 ### 他のいろいろな依存ソフトウェア
 
-[Yarn](https://yarnpkg.com/en/)を、その他のソフトウェアをインストールします。
+今度は、[Yarn](https://yarnpkg.com/en/)といくつかのソフトウェアをインストールする必要があります。
 
 #### それぞれのソフトウェアの説明
 
@@ -264,7 +264,7 @@ server {
     add_header Cache-Control "public, max-age=31536000, immutable";
     try_files $uri @proxy;
   }
-  
+
   location /sw.js {
     add_header Cache-Control "public, max-age=0";
     try_files $uri @proxy;
